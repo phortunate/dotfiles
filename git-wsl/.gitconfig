@@ -1,0 +1,9 @@
+[credential]
+	helper = 
+	helper = /home/statum/.dotnet/tools/git-credential-manager
+	credentialStore = gpg
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[user]
+	name = Stephen Tatum
+	email = 24849858+phortunate@users.noreply.github.com
